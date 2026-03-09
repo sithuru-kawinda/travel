@@ -14,16 +14,16 @@ const Footer = () => {
               Discover the beauty of Sri Lanka with our expert guides and premium travel packages.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
+              <a href="https://www.facebook.com/" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
                 <FaFacebook />
               </a>
-              <a href="#" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
+              <a href="https://www.facebook.com/" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
                 <FaTwitter />
               </a>
-              <a href="#" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
+              <a href="https://www.facebook.com/" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
                 <FaInstagram />
               </a>
-              <a href="#" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
+              <a href="https://www.facebook.com/" className="bg-blue-800 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all">
                 <FaYoutube />
               </a>
             </div>
@@ -53,16 +53,16 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Support</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-gray-300 hover:text-orange-400 transition-all">FAQs</a>
+                <a href="https://www.facebook.com/" className="text-gray-300 hover:text-orange-400 transition-all">FAQs</a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-orange-400 transition-all">Privacy Policy</a>
+                <a href="https://www.facebook.com/" className="text-gray-300 hover:text-orange-400 transition-all">Privacy Policy</a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-orange-400 transition-all">Terms & Conditions</a>
+                <a href="https://www.facebook.com/" className="text-gray-300 hover:text-orange-400 transition-all">Terms & Conditions</a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-orange-400 transition-all">Cancellation Policy</a>
+                <a href="https://www.facebook.com/" className="text-gray-300 hover:text-orange-400 transition-all">Cancellation Policy</a>
               </li>
             </ul>
           </div>

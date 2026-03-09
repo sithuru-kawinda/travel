@@ -242,7 +242,7 @@ const Contact = () => {
                       {socials.map((social, index) => (
                         <a
                           key={index}
-                          href="#"
+                          href="tel:+94703474125"
                           className={`w-12 h-12 rounded-xl ${social.color} text-white hover:scale-110 transition-all flex items-center justify-center`}
                           title={social.name}
                         >
